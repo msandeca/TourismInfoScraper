@@ -14,6 +14,6 @@ Extrae los precios de las excursiones, entradas y todo lo relacionado con la ven
 La práctica ha sido generada de manera individual.
 
 # Ficheros incluídos
-TourismInfoScraper.py
-Read.me
-TourismInfo.csv
+- TourismInfoScraper.py
+- Read.me
+- TourismInfo.csv
