@@ -17,3 +17,4 @@ La práctica ha sido generada de manera individual.
 - TourismInfoScraper.py
 - Read.me
 - TourismInfo.csv
+- Práctica1_Sanjuan_de_Caso_Marta.pdf
